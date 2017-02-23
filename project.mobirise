@@ -81,7 +81,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#e25041!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -131,6 +131,17 @@
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -145,26 +156,15 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlayColor": "#000000",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
           "title": "Agua Viva de Chihuahua",
           "text": "<br>Jueves &nbsp; &nbsp; &nbsp;- Servicio de oración y discipulado - 19:00 hrs<br>Sábado &nbsp; &nbsp; - Servicio de jóvenes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- 17:00 hrs<br>Domingo - Servicio General &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- 10:00 hrs",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">Misión</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Visión</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#f7da64"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">Misión</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Visión</a> "
         },
         {
           "_name": "footer1",
@@ -188,6 +188,17 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "24px"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "imageSize": 50,
@@ -233,18 +244,7 @@
           },
           "title": "Nuestra misión",
           "text": "Enseñar al creyente su identidad &nbsp;en Cristo para vivir una vida victoriosa, según sus derechos y privilegios derivados del Nuevo Pacto.<br><br>Exaltar los principios Bíblicos de amor, fe, prosperidad y justicia.<br><br>Dar a la Palabra de Dios el Primer lugar en nuestras vidas.<br><br>Enseñar el destino y propósito glorioso de la Iglesia del Señor, según Efesios 3:3-11<br><br>Instruir al creyente para hacer frente al enemigo, manteniéndolos firmes en la guerra espiritual con un pleno conocimiento en la palabra de Justicia (ver Hebreos 5:12-14 y Efesios 6:10-18).<br><br>Proclamar el Señoría de Cristo a todas las naciones, a través de la Iglesia Local, campañas, convenciones y todos los medios de comunicación disponibles para tal fin.<br><br>Insistir en el pleno desarrollo de los 5 ministerios en la Iglesia (ver Efesios 4:11) para lograr plena madurez del cuerpo de Cristo enfocados a la gran cosecha mundial de almas en estos tiempos finales de la historia de la humanidad.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "color": "#f3c649"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
